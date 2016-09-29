@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>doug.bagley</sys_created_by>
+        <sys_created_on>2016-09-29 20:36:07</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>7e6234a31382224045795aff3244b059</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dmr_larimer_demo_appp_table.x_dmr_larimer_demo.user</sys_name>
+        <sys_package display_value="Larimer Demo Appp" source="x_dmr_larimer_demo">066270a31382224045795aff3244b0af</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Larimer Demo Appp">066270a31382224045795aff3244b0af</sys_scope>
+        <sys_security_acl display_value="x_dmr_larimer_demo_appp_table">b26234a31382224045795aff3244b059</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7e6234a31382224045795aff3244b059</sys_update_name>
+        <sys_updated_by>doug.bagley</sys_updated_by>
+        <sys_updated_on>2016-09-29 20:36:07</sys_updated_on>
+        <sys_user_role display_value="x_dmr_larimer_demo.user" name="x_dmr_larimer_demo.user">926234a31382224045795aff3244b054</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

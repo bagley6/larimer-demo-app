@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Larimer Demo Appp Table" max_length="40" name="x_dmr_larimer_demo_appp_table" type="collection">
+        <element label="Name" max_length="50" name="name" type="string"/>
+    </element>
+</database>
